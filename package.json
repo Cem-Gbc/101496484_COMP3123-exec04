@@ -1,0 +1,19 @@
+{
+  "name": "101496484_COMP3123-exec04",
+  "version": "1.0.0",
+  "description": "COMP 3123 Lab 4 - Express.js exercise (Cem Dudu, 101496484)",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Cem Dudu",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
